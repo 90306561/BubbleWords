@@ -6,3 +6,10 @@ the respective scrabble letter values to your score. The hardest part of develop
 to check and see if the inputted word was really a word.
 
 ![Simulator Screen Shot - iPhone 13 - 2022-04-05 at 16 36 06](https://user-images.githubusercontent.com/72754329/161853801-21675f52-b3b7-4716-901b-961075f364dd.png)
+
+## Version History
+- 1.0 Build 1: 
+  - Made demo of game.
+  - Added feature of launching a ball from a cannon. If the ball hits a letter on the screen, it goes away and is recorded.
+  - Added feature of getting points based on a word that is recoreded.
+  - Added feature of loseing points based on the discarded letters.
